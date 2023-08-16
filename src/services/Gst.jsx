@@ -1,5 +1,5 @@
 import React from 'react'
-import Card from 'react-bootstrap/Card';
+
 import './gst.css'
 import gst from './photo/GST.jpg'
 import DoneTwoToneIcon from '@mui/icons-material/DoneTwoTone';
