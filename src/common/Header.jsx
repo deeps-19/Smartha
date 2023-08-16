@@ -1,13 +1,10 @@
 import React from 'react'
-import Container from 'react-bootstrap/Container';
-import Nav from 'react-bootstrap/Nav';
-import Navbar from 'react-bootstrap/Navbar';
-import NavDropdown from 'react-bootstrap/NavDropdown';
+
 import logo from './logo/logo.png'
 import './css/header.css'
 import { Link } from 'react-router-dom';
 import CloseIcon from '@mui/icons-material/Close';
-import MenuIcon from '@mui/icons-material/Menu';
+
 import MenuOutlinedIcon from '@mui/icons-material/MenuOutlined';
 const Header = () => {
   return (

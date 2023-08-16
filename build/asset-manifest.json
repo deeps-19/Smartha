@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Smartha/static/css/main.d8100a79.css",
+    "main.js": "/Smartha/static/js/main.637c5fce.js",
+    "static/js/787.28ec4069.chunk.js": "/Smartha/static/js/787.28ec4069.chunk.js",
+    "static/media/coformation.jpg": "/Smartha/static/media/coformation.5192baedc4bfd6ca9465.jpg",
+    "static/media/5031659.jpg": "/Smartha/static/media/5031659.7cbbac2bac1fc0994f92.jpg",
+    "static/media/Digital_Signature_Certificate_Corpseed.png": "/Smartha/static/media/Digital_Signature_Certificate_Corpseed.b7ae026a4b0153a8f3c9.png",
+    "static/media/GST.jpg": "/Smartha/static/media/GST.ddcf993c85b516f58350.jpg",
+    "static/media/IMG_CCI_UDHindu_KSL_USI4_2_1_F99P8QL7.jpg": "/Smartha/static/media/IMG_CCI_UDHindu_KSL_USI4_2_1_F99P8QL7.b324bcdb5ec6b4c32c6c.jpg",
+    "static/media/accountbg.avif": "/Smartha/static/media/accountbg.8daac0faa08c5a1a1a9b.avif",
+    "static/media/PAN.jpeg": "/Smartha/static/media/PAN.19e32b314297ae913fa2.jpeg",
+    "static/media/bill.jpeg": "/Smartha/static/media/bill.b8299622beed07ec2b80.jpeg",
+    "static/media/diffence-between-fssai-registration-and-license.jpg": "/Smartha/static/media/diffence-between-fssai-registration-and-license.06dc0e54fee8ebb83be9.jpg",
+    "static/media/importex.jpg": "/Smartha/static/media/importex.1f21346d1927691197eb.jpg",
+    "static/media/unnamed.png": "/Smartha/static/media/unnamed.07bafbf9e06bda6b667e.png",
+    "static/media/logo.png": "/Smartha/static/media/logo.a2024821aad430914054.png",
+    "static/media/contact us.jpg": "/Smartha/static/media/contact us.aad17b8ec46aaf9db079.jpg",
+    "static/media/registration.avif": "/Smartha/static/media/registration.7c779778c361395dd76d.avif",
+    "static/media/itr.avif": "/Smartha/static/media/itr.b5c8832332422add9f22.avif",
+    "static/media/poster-food-promotion-theme-shading-traditional-ink-powerpoint-background_2db241f378__960_540.avif": "/Smartha/static/media/poster-food-promotion-theme-shading-traditional-ink-powerpoint-background_2db241f378__960_540.62bcc4485087166248df.avif",
+    "static/media/1667824-business.avif": "/Smartha/static/media/1667824-business.ba773dedf06e03e36827.avif",
+    "index.html": "/Smartha/index.html",
+    "main.d8100a79.css.map": "/Smartha/static/css/main.d8100a79.css.map",
+    "main.637c5fce.js.map": "/Smartha/static/js/main.637c5fce.js.map",
+    "787.28ec4069.chunk.js.map": "/Smartha/static/js/787.28ec4069.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8100a79.css",
+    "static/js/main.637c5fce.js"
+  ]
+}
