@@ -1,0 +1,50 @@
+.getdiv{
+    /* background-color: lightgray; */
+}
+.gstcard
+{
+    display: flex;
+    align-items: center;
+}
+.gstcard img{
+    width: 53%;
+}
+.gsth1{
+   
+    font-size: 6.5rem;
+    text-align: center;
+    font-weight: 600;
+    color: purple;
+}
+.gstdiv1{
+    display: flex;
+    justify-content:space-around;
+}
+.gstdiv1 img{
+    width: 40%;
+}
+/* .gstdiv1 .gstdiv2{
+    
+    
+   
+    background-image: url('./photo/images.jfif');
+    background-repeat: no-repeat;
+    background-size: 150%;
+    opacity: 0.6;
+}*/
+.gstdiv3
+{
+   font-weight: 500;
+} 
+@media only screen and (max-width: 600px){
+    .gstdiv1{
+        display: block;
+    }
+    .gsth1{
+    font-size: 3.5rem;
+    }
+    .gstdiv1 img{
+        width: 100%;
+    }
+   
+}

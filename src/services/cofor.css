@@ -1,0 +1,52 @@
+.getdiv{
+    /* background-color: lightgray; */
+}
+.coforcard
+{
+    display: flex;
+    align-items: center;
+}
+.coforcard img{
+    width: 50%;
+}
+.coforh1{
+   
+    font-size: 6.5rem;
+    text-align: center;
+    font-weight: 600;
+    color: purple;
+}
+.cofordiv1{
+    display: flex;
+    justify-content:space-around;
+}
+.cofordiv1 img{
+    width: 40%;
+}
+/* .cofordiv1 .cofordiv2{
+    
+    
+   
+    background-image: url('./photo/images.jfif');
+    background-repeat: no-repeat;
+    background-size: 150%;
+    opacity: 0.6;
+}*/
+.cofordiv3
+{
+   font-weight: 500;
+   text-align: left;
+   margin: 25px;
+} 
+@media only screen and (max-width: 600px){
+    .cofordiv1{
+        display: block;
+    }
+    .coforh1{
+    font-size: 3.5rem;
+    }
+    .cofordiv1 img{
+        width: 100%;
+    }
+   
+}

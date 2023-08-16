@@ -1,0 +1,61 @@
+.accountdiv{
+
+}
+.accountcard
+{
+    display: flex;
+    align-items: center;
+}
+.accountcard img{
+    width: 50%;
+}
+.accounth1{
+   
+    font-size: 6.5rem;
+    text-align: center;
+    font-weight: 600;
+    color: purple;
+}
+.accountdiv1{
+    display: flex;
+    /* flex-direction: row-reverse; */
+    justify-content:space-between;
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.accountdiv1 img{
+    width: 100%;
+}
+/* .accountdiv1 .accountdiv2{
+    
+    
+   
+    background-image: url('./photo/accountbg.avif');
+    background-repeat: no-repeat;
+    background-size: 150%;
+    opacity: 0.6;
+} */
+.accountdiv3
+{
+    color: black;
+   font-weight: 500;
+   position: absolute;
+   top: 52%;
+   left: 53%;
+   transform: translate(-50%, -50%);
+  
+} 
+@media only screen and (max-width: 600px){
+    .accountdiv1 img{
+        width: 100%;
+        height: 500px;
+    }
+    .accounth1{
+   
+        font-size: 3.5rem;
+        text-align: center;
+        font-weight: 600;
+        color: purple;
+    }
+}
